@@ -1,2 +1,2 @@
 # Devansh-
-this is my learning git repositiory
+This is my learning git repositiory
